@@ -44,20 +44,22 @@ Most shortcuts are triggered by shift + alt
 ####Window and tabs
 
 shift+alt+6(Num KB)  => Split (move) right 
-![a](imgs/move-r.gif)    |
+
+![a](imgs/move-r.gif)  
 
 shift+alt+2(Num KB) => Split (move) down   
+
 ![a](imgs/move-d.gif)
 
 shift+alt+(left/right) => Open left/right tab 
+
 ![a](imgs/move-tabs.gif) 
 
 
 
 
 ####Git
-| Shortcut    | Action |
-|-------------|--------|
-| shift+alt+c | Push   |
-| shift+alt+f | Fetch  |
-| shift+alt+c | Commit |
+
+shift+alt+c => Push   
+shift+alt+f => Fetch  
+shift+alt+c => Commit 

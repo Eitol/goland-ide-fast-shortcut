@@ -42,13 +42,15 @@ File -> Import Settings -> Select the file goland-settings.zip
 Most shortcuts are triggered by shift + alt
 
 ####Window and tabs
-| Shortcut               | Action              |    View                 |
-|------------------------|---------------------|-------------------------|
-| shift+alt+6(Num KB)    | Split (move) right  |![a](imgs/move-r.gif)    |
-|                        |                     |                         |
-| shift+alt+2(Num KB)    | Split (move) down   |![a](imgs/move-d.gif)    |
-|                        |                     |                         |
-| shift+alt+(left/right) | Open left/right tab |![a](imgs/move-tabs.gif) |
+
+shift+alt+6(Num KB)  => Split (move) right 
+![a](imgs/move-r.gif)    |
+
+shift+alt+2(Num KB) => Split (move) down   
+![a](imgs/move-d.gif)
+
+shift+alt+(left/right) => Open left/right tab 
+![a](imgs/move-tabs.gif) 
 
 
 
